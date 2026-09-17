@@ -1,1 +1,1 @@
-# ecommerce-price-tracker
+# code-practice
